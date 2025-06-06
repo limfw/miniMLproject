@@ -20,7 +20,7 @@ Each project is self-contained, with its own code, models, and README instructio
 - Build modular and practical ML mini-projects
 - Emphasize clean coding and reproducibility
 - Share explainable models with simple visualizations
-- Deploy via **Streamlit**, **FastAPI**, or **GitHub Pages**
+- Deploy via **GitHub Pages**
 
 ---
 
