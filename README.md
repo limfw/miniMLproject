@@ -2,7 +2,7 @@
 
 Welcome to my personal repository of **mini machine learning projects**, each crafted to demonstrate ML applications, clean architecture, and practical deployment.
 
-Each project is self-contained, with its own code, models, and README instructions. They are also shared and explained for **public learning and feedback**.
+Each project is self-contained, with its own code, models, and README instructions. They are shared for **public learning and feedback**.
 
 ---
 
