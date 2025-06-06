@@ -11,7 +11,6 @@ Each project is self-contained, with its own code, models, and README instructio
 | Project Folder                  | Description                                                                 | Status        |
 |----------------------------------|-----------------------------------------------------------------------------|---------------|
 | [`Fake-job-project`](./Fake-job-project/)       | Detect fake job postings using NLP + metadata + rule agent                 | Completed   |
-| [`Image-process-project`](./Image-process-project/) | Apply classical and deep learning techniques to image classification tasks |  In Progress |
 | `...`                             | More projects coming soon (e.g., fraud detection, text generation, etc.)   |  Planned     |
 
 ---
