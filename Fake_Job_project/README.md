@@ -1,5 +1,3 @@
-## Fake Job Post Detection
-
 This project builds a machine learning system to detect fake job postings using two different models:
 - A text-based classifier using job descriptions.
 - A metadata-based classifier using structured information like salary and employment type.
@@ -116,4 +114,8 @@ python scripts/rule_agent.py
 
 * The goal is to demonstrate modular, explainable ML design for fraud detection use cases.
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> f9b0bcbbee80da7105424cc91c32adf393db30ed

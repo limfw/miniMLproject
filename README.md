@@ -1,6 +1,6 @@
-# Mini ML Project Hub – `limfw/miniMLproject`
+# Mini ML Project Hub
 
-Welcome to my personal repository of **mini machine learning projects**, each crafted to demonstrate real-world ML applications, clean architecture, and practical deployment.
+Welcome to my personal repository of **mini machine learning projects**, each crafted to demonstrate ML applications, clean architecture, and practical deployment.
 
 Each project is self-contained, with its own code, models, and README instructions. They are shared for **public learning and feedback**.
 
@@ -11,7 +11,6 @@ Each project is self-contained, with its own code, models, and README instructio
 | Project Folder                  | Description                                                                 | Status        |
 |----------------------------------|-----------------------------------------------------------------------------|---------------|
 | [`Fake-job-project`](./Fake-job-project/)       | Detect fake job postings using NLP + metadata + rule agent                 | Completed   |
-| [`Image-process-project`](./Image-process-project/) | Apply classical and deep learning techniques to image classification tasks |  In Progress |
 | `...`                             | More projects coming soon (e.g., fraud detection, text generation, etc.)   |  Planned     |
 
 ---
