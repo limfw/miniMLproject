@@ -2,6 +2,7 @@ import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))) 
 
+from src.style_mapping import get_style_recommendation
 from src.predictor import predict_body_shape
 import streamlit as st
 
@@ -23,7 +24,12 @@ if st.button("Predict My Body Shape"):
         "Hips": hips
     }
 
-    shape, recommendation = predict_body_shape(input_data)
+    shape, _ = predict_body_shape(input_data)
+    rec_text, image_paths = get_style_recommendation(shape)
 
     st.success(f"Predicted Body Shape: **{shape}**")
-    st.markdown(f"**Style Recommendation:**\n\n{recommendation}")
+    st.markdown(f"**Style Recommendation:**\n\n{rec_text}")
+
+    for img_path in image_paths:
+        st.image(img_path, use_container_width=True)
+        
