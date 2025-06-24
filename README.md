@@ -2,7 +2,7 @@
 
 Welcome to my personal repository of **mini machine learning projects**, each crafted to demonstrate real-world ML applications, clean architecture, and practical deployment.
 
-Each project is self-contained, with its own code, models, and README instructions. They are also shared and explained for **public learning and feedback**.
+Each project is self-contained, with its own code, models, and README instructions. They are shared for **public learning and feedback**.
 
 ---
 
@@ -21,7 +21,7 @@ Each project is self-contained, with its own code, models, and README instructio
 - Build modular and practical ML mini-projects
 - Emphasize clean coding and reproducibility
 - Share explainable models with simple visualizations
-- Deploy via **Streamlit**, **FastAPI**, or **GitHub Pages**
+- Deploy via **GitHub Pages**
 
 ---
 

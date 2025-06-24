@@ -1,14 +1,12 @@
-```markdown
-#Fake Job Post Detection – Dual-Model Ensemble Project
+## Fake Job Post Detection
 
-This project builds a machine learning system to **detect fake job postings** using two different models:
-- A **text-based classifier** using job descriptions.
-- A **metadata-based classifier** using structured information like salary and employment type.
+This project builds a machine learning system to detect fake job postings using two different models:
+- A text-based classifier using job descriptions.
+- A metadata-based classifier using structured information like salary and employment type.
 
 The outputs are then **combined using a rule-based agent** to produce final predictions and human-readable explanations.
 
 ---
-
 ## Project Structure
 
 ```
@@ -20,20 +18,23 @@ Fake-job-project/
 │
 ├── model/                              # Saved models
 │   ├── Job_meta_model.pkl              # Random Forest on metadata
-│   └── job_text_model.pkl              # TF-IDF + Logistic Regression
+│   ├── job_text_model.pkl              # TF-IDF + Logistic Regression
 │   └── tfidf_vectorizer.pkl
 │
 ├── scripts/                            # code
 │   ├── text_model.py                   # TF-IDF + Logistic Regression
-│   ├── metadata\_model.py              # Random Forest on metadata
-│   ├── rule\_agent.py                  # Combine outputs with logic
-|
+│   ├── metadata_model.py               # Random Forest on metadata
+│   └── rule_agent.py                   # Combine outputs with logic
+│
 ├── requirements.txt                    # Python dependencies
 └── README.md                           # Project documentation
 
 ````
+
 ---
+
 ## Dataset Description
+
 ### 1. Hugging Face Dataset  
 Source: [`victor/real-or-fake-fake-jobposting-prediction`](https://huggingface.co/datasets/victor/real-or-fake-fake-jobposting-prediction)  
 - Contains job title, description, company profile, requirements, etc.
@@ -50,8 +51,7 @@ Source: [`victor/real-or-fake-fake-jobposting-prediction`](https://huggingface.c
 ### Case 1: Text-Based Model
 - Preprocessing: TF-IDF vectorization on combined text fields
 - Model: Logistic Regression
-- Output: Binary prediction + probability of fraud
-
+- Output: Binary prediction + probability of fraud  
 Script: `scripts/text_model.py`
 
 ---
@@ -59,8 +59,7 @@ Script: `scripts/text_model.py`
 ### Case 2: Metadata-Based Model
 - Preprocessing: Feature engineering on structured fields
 - Model: Random Forest Classifier
-- Output: Binary prediction + probability of fraud
-
+- Output: Binary prediction + probability of fraud  
 Script: `scripts/metadata_model.py`
 
 ---
@@ -84,10 +83,9 @@ def explain_decision(text_pred: int, meta_pred: int, meta_input: dict) -> str:
         return "Both models indicate REAL."
     else:
         return "Disagreement — flagged as FAKE for caution."
-
 ````
 
-📄 Script: `scripts/rule_agent.py`
+Script: `scripts/rule_agent.py`
 
 ---
 
@@ -115,6 +113,7 @@ python scripts/rule_agent.py
 ---
 
 ## Notes
+
 * The goal is to demonstrate modular, explainable ML design for fraud detection use cases.
 
----
+```
