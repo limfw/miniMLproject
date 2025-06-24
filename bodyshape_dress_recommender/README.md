@@ -1,5 +1,3 @@
-
-```markdown
 # Body Shape & Dress Style Recommender
 
 This project uses a decision tree model trained on synthetic body measurements to classify body shape and suggest dressing styles using rule-based logic.
@@ -14,26 +12,23 @@ This project uses a decision tree model trained on synthetic body measurements t
 ### Project Structure
 
 ```
-
-bodyshape\_dress\_recommender/
+bodyshape_dress_recommender/
 ├── app/                    # Streamlit interface
-│   └── streamlit\_app.py
+│   └── streamlit_app.py
 ├── data/                   # Synthetic training data
-│   └── synthetic\_body\_data.csv
+│   └── synthetic_body_data.csv
 ├── model/                  # Saved decision tree model
-│   └── body\_shape\_tree.pkl
+│   └── body_shape_tree.pkl
 ├── src/                    # Core logic
-│   ├── data\_generator.py
+│   ├── data_generator.py
 │   ├── predictor.py
-│   ├── style\_mapping.py
-│   ├── train\_model.py
+│   ├── style_mapping.py
+│   ├── train_model.py
 │   └── **init**.py
-├── test\_predictor.py       # Script to test prediction manually
+├── test_predictor.py       # Script to test prediction manually
 ├── requirements.txt
 └── README.md
-
 ````
-
 ---
 
 ### How to Run
@@ -41,32 +36,27 @@ bodyshape\_dress\_recommender/
 1. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
-````
+   ```
 
 2. **Generate synthetic data**
-
    ```bash
    python src/data_generator.py
    ```
 
 3. **Train the model**
-
    ```bash
    python src/train_model.py
    ```
 
 4. **Test the predictor**
-
    ```bash
    python test_predictor.py
    ```
 
 5. **Launch the Streamlit App**
-
    ```bash
    streamlit run app/streamlit_app.py
    ```
-
 ---
 
 ### Example Input
