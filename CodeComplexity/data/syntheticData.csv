@@ -1,0 +1,201 @@
+user_id,age,gender,location,education,job,income_k,loyalty_status,avg_browsing_time_mins,click_rate,cart_additions,product
+1,56,Male,Rural,Master,Retail,67.4,Bronze,27,0.16,15,Mid-Range
+2,19,Female,Suburban,Bachelor,Student,31.3,Bronze,8,0.2,11,Budget
+3,21,Female,Rural,PhD,Student,32.5,Silver,46,0.41,2,Budget
+4,32,Female,Urban,Bachelor,Retail,54.1,Bronze,25,0.25,10,Budget
+5,60,Male,Suburban,High School,Unemployed,37.9,Silver,17,0.15,13,Premium
+6,25,Male,Urban,Master,Retail,76.0,Silver,29,0.38,17,Budget
+7,38,Male,Urban,High School,Unemployed,37.5,Bronze,53,0.17,4,Mid-Range
+8,56,Male,Suburban,PhD,Unemployed,40.1,Bronze,8,0.71,15,Budget
+9,36,Female,Urban,High School,Healthcare,58.4,Silver,15,0.38,19,Premium
+10,40,Male,Rural,PhD,Unemployed,42.2,Bronze,27,0.36,4,Mid-Range
+11,28,Male,Urban,High School,Teacher,25.3,Bronze,46,0.36,2,Budget
+12,28,Male,Suburban,Master,Unemployed,28.0,Gold,50,0.62,11,Mid-Range
+13,41,Male,Suburban,Bachelor,Unemployed,60.8,Bronze,52,0.34,0,Budget
+14,53,Female,Suburban,PhD,Unemployed,22.8,Bronze,7,0.68,8,Budget
+15,24,Female,Urban,High School,Student,77.9,Bronze,3,0.28,8,Premium
+16,41,Male,Suburban,Bachelor,Teacher,36.2,Gold,29,0.54,3,Premium
+17,20,Female,Suburban,PhD,Teacher,62.3,Bronze,44,0.25,2,Mid-Range
+18,39,Male,Urban,Bachelor,Retail,37.4,Bronze,53,0.1,16,Budget
+19,19,Female,Rural,Bachelor,Healthcare,31.7,Bronze,24,0.58,1,Mid-Range
+20,41,Male,Urban,Bachelor,Unemployed,54.9,Bronze,58,0.47,0,Budget
+21,61,Male,Suburban,Bachelor,Engineer,71.0,Bronze,3,0.27,7,Premium
+22,47,Male,Suburban,Bachelor,Healthcare,45.1,Bronze,20,0.36,12,Premium
+23,55,Female,Urban,Bachelor,Healthcare,48.7,Bronze,46,0.26,14,Budget
+24,19,Female,Rural,PhD,Teacher,66.1,Bronze,15,0.1,7,Mid-Range
+25,38,Female,Suburban,High School,Healthcare,66.8,Bronze,25,0.24,11,Budget
+26,50,Male,Suburban,High School,Unemployed,49.2,Bronze,30,0.52,11,Budget
+27,29,Female,Suburban,PhD,Unemployed,41.1,Bronze,14,0.33,13,Budget
+28,24,Female,Urban,Master,Student,51.7,Bronze,7,0.23,14,Premium
+29,61,Male,Suburban,Bachelor,Unemployed,46.2,Silver,17,0.14,14,Budget
+30,42,Male,Rural,Bachelor,Unemployed,56.3,Bronze,44,0.27,8,Premium
+31,66,Male,Suburban,High School,Teacher,26.1,Bronze,20,0.3,18,Mid-Range
+32,44,Female,Suburban,High School,Unemployed,55.5,Bronze,36,0.06,19,Budget
+33,23,Female,Rural,Bachelor,Student,35.6,Silver,9,0.03,7,Budget
+34,45,Female,Suburban,Bachelor,Engineer,68.1,Silver,38,0.17,18,Budget
+35,33,Male,Urban,Bachelor,Teacher,36.6,Bronze,48,0.58,5,Budget
+36,32,Female,Urban,High School,Engineer,36.9,Bronze,57,0.17,19,Mid-Range
+37,64,Female,Urban,PhD,Teacher,58.9,Gold,22,0.34,18,Budget
+38,68,Male,Rural,PhD,Retail,50.3,Bronze,54,0.44,3,Premium
+39,61,Female,Suburban,Bachelor,Healthcare,95.5,Bronze,53,0.49,6,Budget
+40,69,Female,Urban,Bachelor,Retail,17.4,Bronze,53,0.13,3,Premium
+41,20,Female,Rural,Bachelor,Unemployed,52.2,Bronze,2,0.4,11,Premium
+42,54,Male,Suburban,Master,Engineer,72.6,Gold,24,0.41,12,Mid-Range
+43,68,Male,Rural,Bachelor,Unemployed,38.4,Silver,8,0.33,2,Mid-Range
+44,24,Female,Urban,High School,Healthcare,31.8,Bronze,11,0.15,11,Mid-Range
+45,38,Female,Urban,PhD,Teacher,32.6,Bronze,13,0.34,1,Budget
+46,26,Male,Urban,Master,Healthcare,17.8,Gold,17,0.02,1,Budget
+47,19,Male,Rural,PhD,Student,77.0,Silver,8,0.71,8,Premium
+48,35,Female,Rural,Master,Healthcare,43.4,Silver,21,0.3,0,Budget
+49,19,Male,Urban,Bachelor,Student,41.0,Gold,18,0.41,7,Mid-Range
+50,42,Female,Rural,Bachelor,Healthcare,10.0,Gold,30,0.4,5,Budget
+51,19,Female,Urban,PhD,Student,21.3,Silver,18,0.28,5,Mid-Range
+52,67,Female,Urban,Master,Engineer,79.3,Bronze,46,0.26,17,Mid-Range
+53,26,Female,Suburban,High School,Unemployed,56.1,Bronze,47,0.24,16,Premium
+54,43,Male,Rural,High School,Unemployed,73.3,Silver,31,0.43,11,Budget
+55,19,Female,Urban,Bachelor,Retail,70.8,Bronze,38,0.35,5,Budget
+56,37,Female,Urban,Master,Unemployed,30.0,Silver,32,0.03,7,Budget
+57,45,Male,Rural,PhD,Teacher,98.6,Bronze,11,0.18,18,Mid-Range
+58,64,Male,Suburban,High School,Healthcare,89.0,Bronze,45,0.51,9,Budget
+59,24,Female,Suburban,Bachelor,Retail,38.7,Bronze,25,0.63,0,Premium
+60,61,Female,Urban,Bachelor,Teacher,10.0,Bronze,33,0.54,12,Budget
+61,25,Male,Rural,PhD,Teacher,42.9,Gold,38,0.27,16,Mid-Range
+62,24,Female,Suburban,Master,Student,54.8,Silver,41,0.39,2,Premium
+63,52,Female,Rural,Master,Unemployed,38.6,Silver,8,0.4,7,Mid-Range
+64,31,Female,Rural,Bachelor,Engineer,45.6,Silver,11,0.17,13,Budget
+65,34,Female,Urban,Bachelor,Engineer,33.4,Bronze,22,0.52,2,Mid-Range
+66,53,Male,Suburban,High School,Retail,68.4,Bronze,51,0.17,15,Mid-Range
+67,67,Male,Urban,High School,Engineer,51.3,Bronze,24,0.25,12,Budget
+68,57,Female,Suburban,Master,Healthcare,69.0,Bronze,41,0.3,19,Budget
+69,21,Female,Suburban,Master,Engineer,74.4,Bronze,17,0.27,16,Mid-Range
+70,19,Female,Suburban,PhD,Retail,10.0,Bronze,12,0.34,12,Budget
+71,23,Male,Suburban,PhD,Engineer,34.6,Bronze,57,0.11,5,Mid-Range
+72,59,Female,Suburban,Bachelor,Healthcare,37.5,Gold,46,0.06,16,Premium
+73,20,Female,Rural,Master,Student,101.4,Silver,32,0.18,13,Mid-Range
+74,46,Female,Urban,PhD,Retail,53.0,Bronze,15,0.01,16,Mid-Range
+75,18,Female,Rural,Master,Student,66.3,Silver,16,0.47,7,Mid-Range
+76,21,Female,Suburban,High School,Student,12.4,Silver,54,0.15,10,Premium
+77,18,Female,Urban,Bachelor,Student,52.9,Bronze,22,0.21,19,Budget
+78,51,Male,Suburban,High School,Teacher,69.6,Silver,28,0.08,0,Budget
+79,27,Female,Urban,PhD,Unemployed,67.2,Silver,20,0.5,6,Budget
+80,53,Female,Rural,Bachelor,Teacher,62.5,Bronze,33,0.33,16,Budget
+81,31,Male,Urban,High School,Unemployed,50.3,Bronze,10,0.2,9,Premium
+82,24,Male,Urban,Bachelor,Student,51.2,Bronze,40,0.28,10,Mid-Range
+83,65,Female,Urban,Bachelor,Retail,16.1,Bronze,32,0.37,8,Budget
+84,32,Male,Urban,Bachelor,Unemployed,32.0,Bronze,50,0.25,8,Premium
+85,25,Female,Urban,High School,Healthcare,54.6,Silver,33,0.56,4,Budget
+86,31,Male,Suburban,Bachelor,Healthcare,35.7,Bronze,2,0.26,16,Budget
+87,40,Male,Urban,Bachelor,Engineer,63.8,Bronze,33,0.54,8,Premium
+88,57,Female,Urban,Master,Unemployed,59.3,Gold,33,0.14,16,Mid-Range
+89,38,Male,Rural,Bachelor,Retail,77.3,Silver,41,0.33,18,Mid-Range
+90,33,Male,Urban,Master,Teacher,69.2,Bronze,13,0.02,6,Budget
+91,18,Female,Rural,Bachelor,Student,54.5,Bronze,30,0.16,8,Premium
+92,35,Female,Suburban,Bachelor,Engineer,65.0,Bronze,33,0.18,6,Mid-Range
+93,64,Male,Urban,Master,Healthcare,70.1,Silver,13,0.18,12,Budget
+94,41,Female,Rural,Bachelor,Teacher,39.9,Bronze,52,0.52,10,Budget
+95,43,Female,Rural,High School,Teacher,43.4,Bronze,26,0.21,13,Budget
+96,24,Female,Suburban,High School,Student,48.1,Gold,22,0.15,18,Budget
+97,62,Male,Urban,Master,Unemployed,40.5,Bronze,39,0.12,10,Budget
+98,58,Female,Urban,Bachelor,Healthcare,70.3,Silver,2,0.39,12,Budget
+99,46,Female,Rural,Master,Retail,37.5,Gold,38,0.17,13,Budget
+100,32,Female,Urban,High School,Teacher,75.0,Bronze,39,0.17,12,Mid-Range
+101,18,Female,Rural,High School,Student,42.7,Silver,26,0.53,0,Budget
+102,18,Male,Urban,High School,Retail,59.4,Bronze,46,0.22,7,Mid-Range
+103,42,Male,Rural,Bachelor,Unemployed,53.3,Gold,58,0.23,11,Mid-Range
+104,24,Female,Urban,Bachelor,Healthcare,30.5,Bronze,50,0.45,18,Budget
+105,26,Female,Suburban,Bachelor,Unemployed,49.6,Silver,15,0.28,11,Budget
+106,41,Female,Urban,Bachelor,Teacher,56.7,Bronze,34,0.06,7,Budget
+107,18,Male,Urban,PhD,Retail,48.7,Silver,42,0.15,7,Budget
+108,61,Female,Suburban,Bachelor,Retail,23.1,Silver,55,0.4,12,Mid-Range
+109,25,Female,Urban,Bachelor,Retail,84.0,Bronze,44,0.1,11,Budget
+110,41,Female,Suburban,Master,Teacher,51.8,Silver,49,0.36,15,Mid-Range
+111,28,Male,Urban,Bachelor,Teacher,34.1,Bronze,40,0.12,0,Premium
+112,68,Female,Rural,Bachelor,Unemployed,82.4,Bronze,11,0.3,12,Premium
+113,34,Female,Rural,Master,Engineer,62.3,Bronze,3,0.35,6,Budget
+114,25,Male,Urban,PhD,Unemployed,26.0,Bronze,59,0.39,4,Budget
+115,52,Female,Urban,High School,Healthcare,29.1,Bronze,6,0.27,7,Budget
+116,19,Female,Urban,PhD,Student,45.6,Gold,9,0.34,13,Budget
+117,50,Female,Rural,Bachelor,Retail,55.9,Bronze,6,0.52,12,Budget
+118,22,Male,Urban,High School,Engineer,62.5,Silver,9,0.39,14,Premium
+119,22,Female,Rural,Bachelor,Student,69.0,Bronze,39,0.37,16,Mid-Range
+120,56,Female,Suburban,PhD,Engineer,60.8,Silver,31,0.27,14,Budget
+121,58,Female,Rural,Bachelor,Unemployed,76.9,Gold,32,0.2,19,Mid-Range
+122,45,Male,Rural,Bachelor,Teacher,52.5,Bronze,41,0.3,17,Mid-Range
+123,24,Male,Suburban,Bachelor,Retail,34.8,Silver,50,0.19,17,Mid-Range
+124,26,Male,Rural,High School,Unemployed,49.9,Bronze,12,0.4,1,Premium
+125,19,Male,Urban,High School,Student,48.6,Silver,8,0.12,3,Mid-Range
+126,19,Female,Urban,High School,Student,10.0,Bronze,8,0.22,0,Budget
+127,23,Male,Rural,High School,Student,38.8,Gold,50,0.46,3,Budget
+128,23,Male,Urban,High School,Student,56.3,Bronze,28,0.23,17,Budget
+129,18,Female,Rural,High School,Student,41.5,Bronze,20,0.4,4,Mid-Range
+130,40,Female,Urban,Bachelor,Engineer,37.1,Silver,47,0.3,18,Budget
+131,41,Male,Urban,High School,Unemployed,68.2,Bronze,59,0.09,14,Mid-Range
+132,54,Male,Rural,Bachelor,Retail,31.7,Bronze,7,0.17,7,Budget
+133,52,Female,Urban,Master,Teacher,64.2,Bronze,11,0.05,19,Mid-Range
+134,61,Male,Rural,Bachelor,Teacher,23.3,Bronze,20,0.3,16,Mid-Range
+135,57,Male,Urban,Bachelor,Unemployed,105.2,Bronze,16,0.31,0,Budget
+136,39,Male,Urban,High School,Unemployed,45.7,Bronze,4,0.23,11,Mid-Range
+137,44,Male,Suburban,High School,Teacher,43.5,Bronze,6,0.12,18,Premium
+138,52,Female,Suburban,High School,Teacher,72.9,Bronze,58,0.17,14,Premium
+139,18,Male,Rural,High School,Engineer,41.6,Silver,22,0.14,8,Premium
+140,52,Female,Suburban,High School,Healthcare,79.1,Bronze,26,0.41,6,Budget
+141,54,Female,Rural,High School,Retail,57.4,Bronze,3,0.55,1,Budget
+142,24,Male,Suburban,High School,Student,47.6,Bronze,41,0.07,8,Premium
+143,31,Male,Urban,High School,Healthcare,45.5,Bronze,42,0.58,9,Premium
+144,20,Male,Rural,Bachelor,Unemployed,74.2,Silver,14,0.07,1,Mid-Range
+145,18,Female,Rural,High School,Teacher,54.6,Bronze,11,0.24,18,Mid-Range
+146,22,Male,Urban,Bachelor,Healthcare,58.6,Bronze,18,0.33,10,Mid-Range
+147,43,Male,Rural,Bachelor,Retail,60.8,Silver,54,0.24,12,Mid-Range
+148,31,Female,Rural,Bachelor,Unemployed,52.7,Silver,12,0.19,9,Mid-Range
+149,19,Male,Suburban,High School,Student,60.4,Bronze,23,0.11,13,Premium
+150,18,Male,Rural,Master,Student,47.6,Silver,12,0.16,17,Budget
+151,26,Male,Urban,Bachelor,Retail,49.0,Gold,13,0.58,18,Mid-Range
+152,32,Male,Suburban,High School,Retail,27.6,Bronze,25,0.4,8,Budget
+153,32,Female,Suburban,Master,Teacher,56.0,Silver,45,0.24,6,Budget
+154,23,Male,Urban,PhD,Student,15.6,Silver,51,0.45,2,Premium
+155,59,Female,Urban,High School,Unemployed,55.7,Bronze,58,0.43,19,Budget
+156,30,Male,Suburban,High School,Healthcare,44.4,Bronze,19,0.46,5,Budget
+157,68,Female,Rural,Master,Unemployed,57.5,Bronze,55,0.17,1,Budget
+158,49,Male,Suburban,Master,Engineer,29.0,Silver,46,0.25,5,Budget
+159,56,Male,Urban,High School,Engineer,10.0,Gold,36,0.31,2,Budget
+160,66,Female,Suburban,High School,Retail,43.0,Silver,45,0.22,15,Premium
+161,69,Female,Urban,Bachelor,Teacher,29.1,Bronze,8,0.25,7,Premium
+162,49,Female,Suburban,Bachelor,Engineer,14.4,Silver,29,0.37,1,Mid-Range
+163,22,Male,Rural,Bachelor,Student,65.4,Bronze,55,0.2,16,Budget
+164,47,Male,Suburban,Bachelor,Unemployed,82.0,Bronze,53,0.51,8,Premium
+165,54,Male,Suburban,Bachelor,Unemployed,34.1,Bronze,55,0.21,11,Mid-Range
+166,40,Female,Urban,Master,Retail,48.5,Silver,32,0.35,2,Budget
+167,56,Male,Urban,High School,Healthcare,43.8,Bronze,51,0.2,10,Budget
+168,62,Female,Urban,High School,Retail,36.8,Silver,44,0.46,0,Premium
+169,32,Male,Suburban,Master,Healthcare,63.3,Bronze,18,0.16,12,Mid-Range
+170,60,Female,Rural,Master,Retail,70.2,Bronze,6,0.11,14,Budget
+171,46,Female,Urban,Bachelor,Retail,32.6,Bronze,18,0.33,4,Budget
+172,53,Female,Urban,Bachelor,Retail,50.9,Bronze,19,0.63,16,Mid-Range
+173,30,Male,Suburban,High School,Healthcare,75.7,Gold,22,0.24,5,Budget
+174,49,Male,Urban,Bachelor,Healthcare,63.8,Bronze,37,0.23,10,Budget
+175,24,Female,Rural,Bachelor,Retail,66.8,Silver,32,0.32,17,Premium
+176,68,Male,Rural,High School,Engineer,77.4,Bronze,56,0.28,3,Budget
+177,39,Male,Urban,High School,Teacher,77.1,Silver,41,0.35,2,Premium
+178,45,Female,Urban,Bachelor,Teacher,70.6,Bronze,59,0.38,12,Budget
+179,19,Female,Suburban,High School,Teacher,52.9,Silver,3,0.08,8,Mid-Range
+180,59,Male,Rural,Bachelor,Healthcare,42.4,Silver,28,0.37,5,Budget
+181,62,Male,Rural,High School,Healthcare,52.1,Bronze,10,0.42,11,Budget
+182,23,Male,Urban,Bachelor,Engineer,39.3,Bronze,51,0.4,1,Premium
+183,45,Female,Suburban,High School,Teacher,11.0,Silver,35,0.26,2,Budget
+184,45,Male,Rural,Master,Teacher,44.4,Gold,29,0.22,2,Budget
+185,61,Male,Rural,Bachelor,Retail,57.2,Bronze,54,0.4,11,Mid-Range
+186,61,Male,Suburban,Bachelor,Healthcare,38.3,Silver,15,0.41,14,Premium
+187,37,Male,Suburban,Master,Teacher,46.1,Gold,33,0.26,8,Mid-Range
+188,47,Female,Rural,Bachelor,Unemployed,46.9,Silver,7,0.12,7,Mid-Range
+189,28,Male,Rural,High School,Engineer,77.1,Gold,12,0.17,10,Budget
+190,45,Female,Suburban,Bachelor,Unemployed,42.8,Silver,49,0.42,15,Mid-Range
+191,42,Male,Rural,Bachelor,Unemployed,77.1,Bronze,30,0.17,3,Budget
+192,56,Male,Urban,Master,Engineer,10.0,Bronze,21,0.25,0,Budget
+193,50,Male,Urban,Bachelor,Unemployed,77.0,Bronze,31,0.22,6,Budget
+194,18,Male,Suburban,High School,Teacher,75.9,Silver,58,0.3,1,Budget
+195,44,Female,Suburban,High School,Healthcare,68.0,Silver,24,0.65,4,Budget
+196,69,Female,Suburban,Bachelor,Engineer,10.0,Bronze,20,0.58,6,Budget
+197,30,Female,Urban,Bachelor,Retail,70.4,Silver,37,0.17,3,Budget
+198,58,Female,Rural,Bachelor,Unemployed,49.0,Silver,4,0.14,4,Budget
+199,20,Male,Urban,Bachelor,Engineer,10.0,Bronze,28,0.53,0,Premium
+200,21,Female,Rural,PhD,Student,76.0,Bronze,44,0.33,0,Mid-Range
